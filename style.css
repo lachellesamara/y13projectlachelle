@@ -1,3 +1,14 @@
-h1 {
-  color: rgb(255, 204, 231); 
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+  font-family: Helvetica, Arial, Helvetica, sans-serif;
+  background-color: rgb(rgb(65, 24, 24));
+  h1 {
+  color: rgb(0, 0, 0); 
+  background-color:rgb(190, 0, 102)
+}
 }
